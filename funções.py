@@ -1,5 +1,4 @@
 from listas import lista_de_preco, lista_de_preco_bebidas
-from lanchonete import total3
 
 def lanche():
     print("Cardápio de lanches")
