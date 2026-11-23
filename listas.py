@@ -18,7 +18,3 @@ bebidas = [
     "Guaraná 2L",
     "Água Mineral 500ml"
 ]
-
-lista_do_adm = [
-    print(lista_de_preco, lista_de_preco_bebidas, lanches, bebidas)
-]
